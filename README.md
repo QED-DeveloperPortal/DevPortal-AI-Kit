@@ -21,19 +21,23 @@ code .
 ```
 
 Install Ollama (see https://github.com/ollama/ollama?tab=readme-ov-file for different ways to do this)
+
 Open a new terminal window
+
 Type the following to download and run the llama3.1:latest model
 ```console
 ollama run llama3.1
 ```
 
-Go back to your VS Code window, open a terminal and type
+Go back to the VS Code window, open a terminal and type
 ```console
 dotnet run
 ```
 
-This should bring you to a "User:" prompt where you can type a query such as "What API Groups are supported?" and press enter.
+A "User:" prompt will show. 
 
-You should then see a response that has been generated.
+Type a query such as "What API Groups are supported?" and press enter.
+
+If everything is configured corectly a response will be generated.
 
 
