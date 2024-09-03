@@ -9,20 +9,20 @@ DevPortal AI Kit combines
 
 To get started:
 
-First clone this repo
+First clone this repo with
 ```console
 git clone https://github.com/qed-developerportal/devportal-ai-kit.git
 cd devportal-ai-kit
 ```
 
-Open this repo in VS Code
+Open this repo in VS Code with
 ```console
 code .
 ```
 
-Install Ollama (see https://github.com/ollama/ollama?tab=readme-ov-file for different ways to do this)
+Install Ollama (see https://github.com/ollama/ollama?tab=readme-ov-file for different ways to do this).
 
-Open a new terminal window
+Open a new terminal window.
 
 Type the following to download and run the llama3.1:latest model
 ```console
@@ -38,6 +38,6 @@ A "User:" prompt will show.
 
 Type a query such as "What API Groups are supported?" and press enter.
 
-If everything is configured corectly a response will be generated.
+If everything is configured correctly a response will be generated.
 
 
