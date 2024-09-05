@@ -41,3 +41,29 @@ Type a query such as "What API Groups are supported?" and press enter.
 If everything is configured correctly a response will be generated.
 
 
+<span style="color:green;font-weight:700;font-size:20px">
+Example Questions
+</span>
+
+Here are a sample set of questions you can now ask the Semantic Kernel to process along with example answers it has previously provided.
+
+```console
+What API Categories are supported?
+```
+
+<span style="color:green;font-weight:700;font-size:16px">
+The API Categories supported are:
+
+1. Consent Management
+2. Attendance/Roll Marking
+3. Booking Systems
+4. DoE Test Clients
+5. Library Management Systems (online)
+6. SMS/Text Messaging Providers
+7. Student Management
+8. Student Management Publisher
+</span>
+
+
+
+
